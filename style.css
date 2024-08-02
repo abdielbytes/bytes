@@ -54,18 +54,8 @@ body {
 .navArea li a:hover {
     color: #ffffff;
 }
-/* .try{
-    display: flex;
-    justify-content: center;
-    align-content: center;
-    width: 800px;
-} */
+
 .main {
-    flex: 1;
-    /* display: flex; */
-    /* justify-content: center; */
-    /* align-items: center; */
-    background-color: #822a2a;
     padding: 50px;
     /* width: 800px; */
     max-width: 800px;
@@ -73,13 +63,6 @@ body {
     margin-right: auto;
 }
 
-.intro {
-    /* text-align: center; */
-    /* background-color: aqua; */
-    
-    /* padding: 20px; */
-    border-radius: 10px;
-}
 
 .main h1 {
     font-size: 36px;
