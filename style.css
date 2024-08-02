@@ -6,6 +6,12 @@ body {
     color: #ffffff;
 }
 
+.app {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
 .navParent {
     background-color: #000000;
     display: flex;
@@ -46,6 +52,32 @@ body {
 }
 
 .navArea li a:hover {
-    /* background-color: #007bff; */
+    color: #ffffff;
+}
+
+.main {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    /* align-items: center; */
+    /* background-color: #822a2a; */
+    padding: 50px;
+}
+
+.intro {
+    /* text-align: center; */
+    /* background-color: aqua; */
+    
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.main h1 {
+    font-size: 36px;
+    color: #ffffff;
+}
+
+.intro p {
+    font-size: 18px;
     color: #ffffff;
 }
