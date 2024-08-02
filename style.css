@@ -136,4 +136,13 @@ a {
 }
 .findme{
     line-height: 0.3em;
+
+}
+
+.stuffs div + div {
+    margin-top: 50px;
+}
+
+.findme a {
+    text-decoration: underline;
 }
