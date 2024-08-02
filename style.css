@@ -4,6 +4,9 @@ body {
     margin: 0;
     padding: 0;
     color: #ffffff;
+    font-family: "Chakra Petch", sans-serif;
+    font-weight: 400;
+    font-style: normal;
 }
 
 .app {
@@ -55,10 +58,19 @@ body {
     color: #ffffff;
 }
 
+.intro h1{
+    font-family: "Chakra Petch", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+.intro p {
+    font-size: 18px;
+    color: #ffffff;
+}
 .main {
     padding: 50px;
     /* width: 800px; */
-    max-width: 800px;
+    max-width: 600px;
     margin-left: auto;
     margin-right: auto;
 }
@@ -126,10 +138,6 @@ a {
     color: #ffffff;
 }
 
-.intro p {
-    font-size: 18px;
-    color: #ffffff;
-}
 
 .history {
     line-height: 0.3em;
