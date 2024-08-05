@@ -1,7 +1,7 @@
 <template>
     <div class="navParent">
       <div>
-        <!-- <img src="@/assets/images/favicon.ico" alt="Logo"> -->
+        <img src="@/assets/images/favicon.png" alt="Logo">
     </div>
       <div class="navChild">
         <ul class="navArea">
