@@ -6,12 +6,13 @@
       <div class="navChild">
         <ul class="navArea">
           <li><a href="https://medium.com/@abdielbytes">Blog</a></li>
-          <li><a href="#">Projects</a></li>
+          <li><a href="/projects">Projects</a></li>
           <li><a href="#">Sponsors</a></li>
           <li><a href="chat"><i class="fa fa-comments-o" aria-hidden="true"></i></a></li>
-          <li><a href="x"><i class="fa fa-twitter-square" aria-hidden="true"></i></a></li>
+          <li><a href="https://x.com/abdielbytes"><i class="fa fa-twitter-square" aria-hidden="true"></i></a></li>
           <li><a href="demos"><i class="fa fa-info-circle" aria-hidden="true"></i></a></li>
-          <li><a href="github"><i class="fa fa-github" aria-hidden="true"></i></a></li>
+          <li><a href="https://github.com/abdielbytes"><i class="fa fa-github" aria-hidden="true"></i></a></li>
+          <li><a href="https://www.linkedin.com/in/abdielbytes/"><i class="fa fa-linkedin-square" aria-hidden="true"></i></a></li>
         </ul>
       </div>
     </div>
