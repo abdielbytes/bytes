@@ -5,7 +5,7 @@
             <p>If you enjoy my work and find the things I provide useful,consider sponsoring me and the ecosystem so open-source is sustainable for me. Thank You!</p>
                     
         </div>
-      <p>License for the website</p>
+      <a href="https://www.apache.org/licenses/LICENSE-2.0">Apache License2.0  © Abdiel J.W.</a>
     </div>
   </template>
   
@@ -16,6 +16,9 @@
   </script>
   
   <style scoped>
-  /* Add your styles here */
-  </style>
+    a {
+      /* text-decoration: underline; */
+      font-weight: lighter;
+    }
+</style>
   
