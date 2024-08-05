@@ -3,10 +3,10 @@
     <NavBar />
     <div class="main">
     <IntroSection />
-    <!-- <History /> -->
-    <!-- <Stuffs /> -->
-    <!-- <FindMe /> -->
-    <!-- <Footer /> -->
+    <HistorySection />
+    <StuffsSection />
+    <FindMe />
+    <FooterSection />
   </div>
   </div>
 </template>
@@ -14,20 +14,20 @@
 <script>
 import NavBar from './components/NavBar.vue'
 import IntroSection from './components/Intro.vue'
-// import History from './components/History.vue'
-// import Stuffs from './components/Stuffs.vue'
-// import FindMe from './components/FindMe.vue'
-// import Footer from './components/Footer.vue'
+import HistorySection from './components/History.vue'
+import StuffsSection from './components/Stuffs.vue'
+import FindMe from './components/FindMe.vue'
+import FooterSection from './components/FooterSection.vue'
 
 export default {
   name: 'App',
   components: {
     NavBar,
     IntroSection,
-    // History,
-    // Stuffs,
-    // FindMe,
-    // Footer
+    HistorySection,
+    StuffsSection,
+    FindMe,
+    FooterSection
   }
 }
 </script>
@@ -52,5 +52,13 @@ html, body, #app {
     max-width: 600px;
     margin-left: auto;
     margin-right: auto;
+}
+.main h1 {
+    font-size: 36px;
+    color: #ffffff;
+}
+a {
+    text-decoration: none;
+    color: #ffffff;
 }
 </style>
