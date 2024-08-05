@@ -10,6 +10,7 @@
       <a href="https://medium.com/@abdielbytes">Medium</a>
       <a href="https://www.instagram.com/abdielbytes/">Instagram</a>
       <a href="https://t.me/+OrFeujJARUY0MmFk">Telegram</a>
+      <a href="https://dev.to/abdielbytes">Dev.to</a>
     </p>
     <p>Or mail me at</p>
     <a href="mailto:your.email@example.com">wilsonabdiel86@gmail.com</a>
@@ -25,6 +26,7 @@ export default {
 <style scoped>
 .findme {
   line-height: 1.5em; /* Adjusted for better readability */
+  /* width: 500px; */
 }
 
 .findme a {
