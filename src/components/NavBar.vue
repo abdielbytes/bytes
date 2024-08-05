@@ -27,7 +27,6 @@
   <style scoped>
 .navParent {
     background-color: #000000;
-    /* background-color: red; */
     display: flex;
     align-items: center;
     justify-content: space-between;

@@ -48,7 +48,6 @@ html, body, #app {
 }
 .main {
     padding: 50px;
-    /* width: 800px; */
     max-width: 600px;
     margin-left: auto;
     margin-right: auto;

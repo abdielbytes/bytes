@@ -20,7 +20,7 @@
           </li>
           <li class="historyDescription">
             <a href="http://goodiesridesgo.org/login" class="button-link">
-              <img class="historyImage">GoodiesRides
+              GoodiesRides
             </a>
           </li>
         </ul>
@@ -59,6 +59,7 @@
     display: flex;
     flex-direction: column;
     gap: 0.3rem;
+    line-height: 0.3em;
   }
   
   .history-item {
@@ -89,24 +90,23 @@
     display: inline-flex;
     align-items: center;
     padding: 0.5rem 1rem;
-    background-color: rgba(35, 36, 38, 0.5); /* Tailwind's bg-gray-500 with 50% opacity */
+    background-color: rgba(35, 36, 38, 0.5);
     color: white;
     font-weight: 600;
-    font-size: 0.875rem; /* Tailwind's text-sm */
-    border-radius: 0.375rem; /* Tailwind's rounded-md */
+    font-size: 0.875rem; 
+    border-radius: 0.375rem; 
     text-decoration: none;
     transition: background-color 0.2s;
     height: 15px;
   }
   
   .button-link:hover {
-    background-color: rgba(75, 85, 99, 0.5); /* Tailwind's hover:bg-gray-600 with 50% opacity */
+    background-color: rgba(75, 85, 99, 0.5); 
   }
   
   .historyImage {
     max-width: 25px;
     margin-right: 0.5rem;
-    /* height: 15px; */
   }
   
   .main h1 {
@@ -114,8 +114,5 @@
     color: #ffffff;
   }
   
-  .history {
-    line-height: 0.3em;
-  }
   </style>
   
