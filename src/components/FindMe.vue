@@ -1,7 +1,7 @@
 <template>
   <div class="findme">
     <p>Find me on</p>
-    <p>
+    <p class="linkes">
       <a href="https://github.com/abdielbytes">GitHub</a>
       <a href="https://x.com/abdielbytes">X.com</a>
       <a href="https://web.facebook.com/abdiel.wilson.79/">Facebook</a>
@@ -14,6 +14,9 @@
     </p>
     <p>Or mail me at</p>
     <a href="mailto:your.email@example.com">wilsonabdiel86@gmail.com</a>
+    <div class="sponsor-button">
+      <a href="https://github.com/sponsors/abdielbytes" class="sponsor-link"><i class="fa fa-heart-o" aria-hidden="true"></i>  Sponsor Me</a>
+    </div>
   </div>
 </template>
 
@@ -25,18 +28,39 @@ export default {
 
 <style scoped>
 .findme {
-  line-height: 1.5em; /* Adjusted for better readability */
-  /* width: 500px; */
+  line-height: 1.5em; 
 }
 
-.findme a {
+.linkes{
   text-decoration: underline;
-  margin-right: 10px; /* Add some space between links */
-  color: #ffffff; /* Ensure links are visible on a dark background */
+}
+.findme a {
+  margin-right: 10px; 
+  color: #ffffff; 
   transition: color 0.3s;
 }
 
 .findme a:hover {
-  color: #a19d9d; /* Change color on hover for better user experience */
+  color: #a19d9d; 
 }
+.sponsor-button {
+  margin-top: 20px;
+}
+
+.sponsor-link {
+  display: inline-block;
+  padding: 10px 20px;
+  border-radius: 10px; 
+  backdrop-filter: blur(10px); 
+  color: #ffffff; 
+  font-weight: bold;
+  text-decoration: none;
+  transition: background-color 0.3s, box-shadow 0.3s;
+}
+
+.sponsor-link:hover {
+  background: rgba(255, 255, 255, 0.3); 
+  box-shadow: 0 6px 8px rgba(0, 0, 0, 0.15); 
+}
+
 </style>
