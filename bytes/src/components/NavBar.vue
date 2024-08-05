@@ -5,7 +5,7 @@
     </div>
       <div class="navChild">
         <ul class="navArea">
-          <li><a href="#">Blog</a></li>
+          <li><a href="https://medium.com/@abdielbytes">Blog</a></li>
           <li><a href="#">Projects</a></li>
           <li><a href="#">Sponsors</a></li>
           <li><a href="chat"><i class="fa fa-comments-o" aria-hidden="true"></i></a></li>
@@ -26,15 +26,17 @@
   <style scoped>
 .navParent {
     background-color: #000000;
+    /* background-color: red; */
     display: flex;
     align-items: center;
     justify-content: space-between;
     padding: 10px 20px;
+    height: 80px;
 }
 
 .navParent img {
-    height: 40px;
-    width: 40px;
+    height: 100%;
+    width: 80px;
 }
 
 .navChild {
