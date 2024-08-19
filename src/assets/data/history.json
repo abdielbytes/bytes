@@ -6,7 +6,7 @@
           {
             "name": "SoftSuite",
             "url": "https://softsuite.ng/",
-            "image": "@/assets/images/softsuite.png",
+            "image": "softsuite.png",
             "alt": "SoftSuite logo"
           }
         ]
@@ -17,7 +17,7 @@
           {
             "name": "email-in-validate",
             "url": "https://pypi.org/project/email-in-validate/",
-            "image": "@/assets/images/Python-Symbol.png",
+            "image": "Python-Symbol.png",
             "alt": "Python Symbol"
           },
           {
@@ -34,7 +34,7 @@
           {
             "name": "SoftSuite",
             "url": "https://softsuite.ng/",
-            "image": "@/assets/images/softsuite.png",
+            "image": "softsuite.png",
             "alt": "SoftSuite logo"
           }
         ]
@@ -45,7 +45,7 @@
           {
             "name": "email-in-validate",
             "url": "https://pypi.org/project/email-in-validate/",
-            "image": "@/assets/images/Python-Symbol.png",
+            "image": "Python-Symbol.png",
             "alt": "Python Symbol"
           }
         ]
