@@ -1,0 +1,55 @@
+{
+    "history": [
+      {
+        "title": "Working at:",
+        "items": [
+          {
+            "name": "SoftSuite",
+            "url": "https://softsuite.ng/",
+            "image": "@/assets/images/softsuite.png",
+            "alt": "SoftSuite logo"
+          }
+        ]
+      },
+      {
+        "title": "Creator of:",
+        "items": [
+          {
+            "name": "email-in-validate",
+            "url": "https://pypi.org/project/email-in-validate/",
+            "image": "@/assets/images/Python-Symbol.png",
+            "alt": "Python Symbol"
+          },
+          {
+            "name": "GoodiesRides",
+            "url": "http://goodiesridesgo.org/login",
+            "image": "",
+            "alt": ""
+          }
+        ]
+      },
+      {
+        "title": "Core team of:",
+        "items": [
+          {
+            "name": "SoftSuite",
+            "url": "https://softsuite.ng/",
+            "image": "@/assets/images/softsuite.png",
+            "alt": "SoftSuite logo"
+          }
+        ]
+      },
+      {
+        "title": "Maintaining:",
+        "items": [
+          {
+            "name": "email-in-validate",
+            "url": "https://pypi.org/project/email-in-validate/",
+            "image": "@/assets/images/Python-Symbol.png",
+            "alt": "Python Symbol"
+          }
+        ]
+      }
+    ]
+  }
+  
