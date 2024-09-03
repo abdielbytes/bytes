@@ -3,8 +3,8 @@
     <NavBar />
     <div class="main">
       <router-view />
+      <FooterSection />
     </div>
-    <FooterSection />
   </div>
 </template>
 
