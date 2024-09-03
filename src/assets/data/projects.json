@@ -1,12 +1,12 @@
 [
     {
       "id": 1,
-      "name": "Project One",
-      "description": "This could include the main features and objectives.",
-      "technologies": ["PHP", "Laravel", "MySQL"],
-      "link": "https://project-one.example.com",
-      "image": "Python-Symbol.png",
-      "category": "web apps"
+      "name": "Email-IN-Validate",
+      "description": "This is a package that validates email inputs.",
+      "technologies": ["Python"],
+      "link": "https://pypi.org/manage/project/email-in-validate/releases/",
+      "image": "emailin.jpg",
+      "category": "cli"
     },
     {
       "id": 2,
