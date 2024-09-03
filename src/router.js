@@ -1,26 +1,26 @@
-import Vue from 'vue'
-import Router from 'vue-router'
-import UnderConstruction from '@/components/UnderConstruction.vue'
+import Vue from 'vue';
+import Router from 'vue-router';
+import Index from '@/views/Index.vue';
+import Projects from '@/views/Projects.vue';
 
-Vue.use(Router)
+Vue.use(Router);
 
 export default new Router({
+  mode: 'history',
   routes: [
-
+    {
+      path: '/',
+      name: 'Index',
+      component: Index,
+    },
     {
       path: '/projects',
-      name: 'History',
-      component: UnderConstruction
+      name: 'Projects',
+      component: Projects,
     },
     {
-      path: '/stuffs',
-      name: 'Stuffs',
-      component: UnderConstruction
+      path: '*',  // Catch-all route for undefined paths
+      redirect: '/',  // Redirect to Index
     },
-    {
-      path: '/findme',
-      name: 'FindMe',
-      component: UnderConstruction
-    }
-  ]
-})
+  ],
+});

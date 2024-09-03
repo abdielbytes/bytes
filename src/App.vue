@@ -2,32 +2,21 @@
   <div id="app">
     <NavBar />
     <div class="main">
-    <IntroSection />
-    <HistorySection />
-    <StuffsSection />
-    <FindMe />
+      <router-view />
+    </div>
     <FooterSection />
-  </div>
   </div>
 </template>
 
 <script>
-import NavBar from './components/NavBar.vue'
-import IntroSection from './components/Intro.vue'
-import HistorySection from './components/History.vue'
-import StuffsSection from './components/Stuffs.vue'
-import FindMe from './components/FindMe.vue'
-import FooterSection from './components/FooterSection.vue'
+import NavBar from './components/NavBar.vue';
+import FooterSection from './components/FooterSection.vue';
 
 export default {
   name: 'App',
   components: {
     NavBar,
-    IntroSection,
-    HistorySection,
-    StuffsSection,
-    FindMe,
-    FooterSection
+    FooterSection,
   }
 }
 </script>
