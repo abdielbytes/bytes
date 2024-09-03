@@ -1,8 +1,9 @@
 <template>
     <div class="navParent">
       <div>
+        <a href="/">
         <img src="@/assets/images/favicon.png" alt="Logo">
-    </div>
+      </a>    </div>
       <div class="navChild">
         <ul class="navArea">
           <li><a href="https://medium.com/@abdielbytes">Blog</a></li>
