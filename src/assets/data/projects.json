@@ -1,0 +1,33 @@
+[
+    {
+      "id": 1,
+      "name": "Project One",
+      "description": "A brief description of Project One. This could include the main features and objectives.",
+      "technologies": ["PHP", "Laravel", "MySQL"],
+      "repository": "https://github.com/yourusername/project-one",
+      "demo": "https://project-one.example.com",
+      "image": "https://example.com/images/project-one-thumbnail.jpg",
+      "category": "web apps"
+    },
+    {
+      "id": 2,
+      "name": "Project Two",
+      "description": "A brief description of Project Two. Highlighting its key features and technologies used.",
+      "technologies": ["JavaScript", "Node.js", "MongoDB"],
+      "repository": "https://github.com/yourusername/project-two",
+      "demo": "https://project-two.example.com",
+      "image": "https://example.com/images/project-two-thumbnail.jpg",
+      "category": "plugins"
+    },
+    {
+      "id": 3,
+      "name": "Project Three",
+      "description": "A brief description of Project Three. Focus on what makes this project unique or noteworthy.",
+      "technologies": ["Vue.js", "Laravel", "PostgreSQL"],
+      "repository": "https://github.com/yourusername/project-three",
+      "demo": "https://project-three.example.com",
+      "image": "https://example.com/images/project-three-thumbnail.jpg",
+      "category": "games"
+    }
+  ]
+  
