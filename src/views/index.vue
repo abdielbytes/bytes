@@ -45,7 +45,7 @@
         <a href="https://x.com/abdielbytes">X.com</a>
         <a href="https://web.facebook.com/abdiel.wilson.79/">Facebook</a>
         <a href="#">YouTube</a>
-        <a href="https://www.linkedin.com/in/abdielbytes/">LinkedIn</a>
+        <a href="https://www.linkedin.com/in/abdielwilson/">LinkedIn</a>
         <a href="https://medium.com/@abdielbytes">Medium</a>
         <a href="https://www.instagram.com/abdielbytes/">Instagram</a>
         <a href="https://t.me/+OrFeujJARUY0MmFk">Telegram</a>
