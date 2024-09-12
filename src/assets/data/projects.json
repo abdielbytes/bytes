@@ -10,12 +10,13 @@
     },
     {
       "id": 2,
-      "name": "Project Two",
-      "description": "Highlighting its key features and technologies used.",
-      "technologies": ["JavaScript", "Node.js", "MongoDB"],
-      "link": "https://project-two.example.com",
-      "image": "Python-Symbol.png",
+      "name": "Speech to Audio Stream",
+      "description": "A live speech to text tarnscription app.",
+      "technologies": ["JavaScript", "HTML", "CSS"],
+      "link": "https://github.com/abdielbytes/speech-to-text-stream",
+      "image": "sta.png",
       "category": "plugins"
     }
+    
   ]
   
