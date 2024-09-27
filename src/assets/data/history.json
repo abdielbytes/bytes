@@ -12,13 +12,13 @@
         ]
       },
       {
-        "title": "Creator of:",
+        "title": "Worked with:",
         "items": [
           {
-            "name": "email-in-validate",
-            "url": "https://pypi.org/project/email-in-validate/",
-            "image": "Python-Symbol.png",
-            "alt": "Python Symbol"
+            "name": "WorkForYou",
+            "url": "#",
+            "image": "wfy.jpeg",
+            "alt": "Work For You logo"
           },
           {
             "name": "GoodiesRides",
