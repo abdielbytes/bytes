@@ -8,6 +8,18 @@
             "url": "https://softsuite.ng/",
             "image": "softsuite.png",
             "alt": "SoftSuite logo"
+          },
+          {
+            "name": "NoSufer",
+            "url": "#",
+            "image": "",
+            "alt": "NoSUfer logo"
+          },
+          {
+            "name": "iCardServices",
+            "url": "#",
+            "alt": "Icard image",
+            "image": ""
           }
         ]
       },

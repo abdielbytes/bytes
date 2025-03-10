@@ -13,7 +13,7 @@
           <li><a href="https://x.com/abdielbytes"><i class="fa fa-twitter-square" aria-hidden="true"></i></a></li>
           <li><a href="demos"><i class="fa fa-info-circle" aria-hidden="true"></i></a></li>
           <li><a href="https://github.com/abdielbytes"><i class="fa fa-github" aria-hidden="true"></i></a></li>
-          <li><a href="https://www.linkedin.com/in/abdielbytes/"><i class="fa fa-linkedin-square" aria-hidden="true"></i></a></li>
+          <li><a href="https://www.linkedin.com/in/abdiellohnwilson/"><i class="fa fa-linkedin-square" aria-hidden="true"></i></a></li>
         </ul>
       </div>
     </div>

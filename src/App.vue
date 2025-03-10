@@ -35,18 +35,39 @@ html, body, #app {
   flex-direction: column;
   min-height: 100vh;
 }
+
 .main {
-    padding: 50px;
-    max-width: 600px;
-    margin-left: auto;
-    margin-right: auto;
+  padding: 50px;
+  max-width: 600px;
+  margin-left: auto;
+  margin-right: auto;
 }
+
+/* Apply animation to text elements inside .main */
+.main h1,
+.main p,
+.main a,
+.main span {
+  animation: fadeIn 1s ease-in-out forwards;
+}
+
 .main h1 {
-    font-size: 36px;
-    color: #ffffff;
+  font-size: 36px;
+  color: #ffffff;
 }
+
 a {
-    text-decoration: none;
-    color: #ffffff;
+  text-decoration: none;
+  color: #ffffff;
+}
+
+/* Define the fadeIn animation */
+@keyframes fadeIn {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
 }
 </style>
